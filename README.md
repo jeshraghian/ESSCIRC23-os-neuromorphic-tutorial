@@ -2,6 +2,8 @@
 
 This repository contains the notebooks related to hardware-aware training of spiking neural networks presented at ESSCIRC/ESSDIRC 2023 (Lisbon, Portugal) for the tutorial on *Open-Source Neuromorphic Circuit Design* co-presented by Charlotte Frenkel, Jason Eshraghian, and Rajit Manohar.
 
+![Abstract](./graphical-abstract.jpg)
+
 There are two tutorial notebooks in this repo:
 
 * One for hardware-aware training spiking neural networks using [snnTorch](https://github.com/jeshraghian/snntorch)
